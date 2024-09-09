@@ -2,7 +2,7 @@
 
 El Sisdai se alinea a principios de ciencia abierta, reproducible y acceso abierto. Este sistema busca ser un espacio colaborativo en la discusión y revisión de estos conceptos para ser integrados en proyectos de investigación y así acercar a las personas a las humanidades, las ciencias, las tecnologías y la innovación.
 
-Un elemento central de la ciencia abierta es la reproducibilidad, que se define como la capacidad de una herramienta o acción (e.g. investigación) de producir un mismo resultado cuando se usa o lleva a cabo repetidamente bajo las mismas circunstancias, es decir, a través de la reproducibilidad es posible que los datos y resultados generados sean fácilmente accesibles y  repetibles[^1](#Referencias).
+Un elemento central de la ciencia abierta es la reproducibilidad, que se define como la capacidad de una herramienta o acción (e.g. investigación) de producir un mismo resultado cuando se usa o lleva a cabo repetidamente bajo las mismas circunstancias, es decir, a través de la reproducibilidad es posible que los datos y resultados generados sean fácilmente accesibles y  repetibles[1](#referencias).
 
 Este grupo de repositorios tiene la finalidad de acercar proyectos enfocados a promover la reproducibilidad de la ciencia al poner a disposición de las personas el código con instrucciones para que puedan ser replicados los ejercicios.
 
